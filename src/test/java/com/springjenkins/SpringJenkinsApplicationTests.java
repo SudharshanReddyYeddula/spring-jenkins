@@ -20,6 +20,7 @@ class SpringJenkinsApplicationTests {
 	void contextLoads() {
 		logger.info("testing started...............");
 		logger.info("testing2 started...............");
+		logger.info("testing2 started...............");
 		assertEquals(true,true);
 	}
 
