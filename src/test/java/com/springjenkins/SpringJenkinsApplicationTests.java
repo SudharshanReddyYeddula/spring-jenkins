@@ -21,7 +21,7 @@ class SpringJenkinsApplicationTests {
 		logger.info("testing started...............");
 		logger.info("testing2 started...............");
 		logger.info("testing3 started...............");
-		assertEquals(true,true);
+		ssertEquals(true,true); // syntax - assertEquals(true,true)
 	}
 
 }
